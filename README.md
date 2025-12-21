@@ -8,7 +8,7 @@ Hi 👋 I am **OMPRASAD TILAK**
 🚀 **Cybersecurity | WebDev | Data Science | AI Enthusiast** 🚀
 --------------------------------------------------------
 
-I'm pursuing a **BTech in CSIT with a Cybersecurity specialization**, fueled by a passion to explore the intersection of **offensive & defensive security, AI, data science, and modern web systems**, with a strong focus on building **secure, real-world solutions**.
+I'm pursuing a **BTech in CSIT with a Cybersecurity specialization**, fueled by a passion to explore the intersection of **offensive & defensive security, AI, data science, WebDev and modern web systems**, with a strong focus on building **secure, real-world solutions**.
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=500&color=00FFCC&center=true&vCenter=true&width=800&lines=Red+Team+%7C+Blue+Team+%7C+Purple+Team;Pentesting+%7C+SOC+%7C+Malware+Analysis;CI%2FCD+Security+%7C+Cloud+Security+%7C+Threat+Hunting" />
@@ -33,49 +33,23 @@ I'm pursuing a **BTech in CSIT with a Cybersecurity specialization**, fueled by 
 
 ## ⚔️ Red Team vs Blue Team
 
-### 🔴 Red Team (Offensive Security)
-- Web & Network Penetration Testing  
-- Vulnerability Assessment & Exploitation  
-- Reconnaissance & Enumeration  
-- Malware & Payload Analysis (Basics)  
-- Privilege Escalation Techniques  
-- OWASP Top 10 Testing  
+| 🔴 **Red Team (Offensive Security)** | 🔵 **Blue Team (Defensive Security)** |
+|------------------------------------|--------------------------------------|
+| Web & Network Penetration Testing  | SOC & Incident Response Fundamentals |
+| Vulnerability Assessment & Exploitation | Log Analysis & Security Monitoring |
+| Reconnaissance & Enumeration       | Network Traffic Analysis             |
+| Malware & Payload Analysis (Basics)| Endpoint Security Concepts            |
+| Privilege Escalation Techniques    | Secure System Hardening               |
+| OWASP Top 10 Testing               | Threat Modeling & Detection           |
+|                                    |                                      |
+| **🛠 Tools**                        | **🛠 Tools / Platforms**              |
+| Kali Linux                         | Wireshark                             |
+| Nmap                               | Splunk (Basics)                       |
+| Metasploit                         | ELK Stack (Conceptual)                |
+| Burp Suite                         | Windows Event Viewer                  |
+| Hydra                              | Sysmon                                |
+| SQLmap                             | IDS / IPS Concepts                    |
 
-**Tools:**
-- Kali Linux
-- Nmap
-- Metasploit
-- Burp Suite
-- Hydra
-- SQLmap
-
----
-
-### 🔵 Blue Team (Defensive Security)
-- SOC & Incident Response Fundamentals  
-- Log Analysis & Security Monitoring  
-- Network Traffic Analysis  
-- Endpoint Security Concepts  
-- Secure System Hardening  
-- Threat Modeling & Detection  
-
-**Tools / Platforms:**
-- Wireshark
-- Splunk (Basics)
-- ELK Stack (Conceptual)
-- Windows Event Viewer
-- Sysmon
-- IDS / IPS Concepts
-
----
-
-### 🟣 Purple Team (Attack ↔ Defense)
-- Detection engineering  
-- Attack simulation for defense improvement  
-- CI/CD pipeline security analysis  
-- Bridging Red Team findings with Blue Team controls  
-
----
 
 ## 🛡️ Cybersecurity Tools & Platforms
 
