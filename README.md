@@ -1,7 +1,7 @@
 Hi 👋 I am OMPRASAD TILAK
 ===============================
 
-Soc Analyst , DevSecOps , Data Analyst and Gen AI expert
+Cybersecurity , WebDev , Data Science and AI enthusiast
 --------------------------------------------------------
 
 I'm pursuing a BTech in CSIT with a Cybersecurity specialization, fueled by a passion to unravel the intricate relationships between cybersecurity, artificial intelligence, data science, and web development dedicated to crafting groundbreaking solutions to safeguard our digital landscape.
