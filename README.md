@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=600&color=00FF00&center=true&vCenter=true&width=900&lines=%3E+booting+secure+environment...;%3E+loading+SOC+modules...;%3E+access+granted:+OMPRASAD+TILAK" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3500&pause=1200&color=FFE81F&center=true&vCenter=true&width=900&lines=EPISODE+I;A+CYBER+AWAKENING;In+a+world+dominated+by+digital+threats...;One+analyst+seeks+to+defend+the+network.;OMPRASAD+TILAK+-+CYBER+SECURITY+INITIATE" />
 </p>
-
-
 
 Hi 👋 I am **OMPRASAD TILAK**
 ===============================
