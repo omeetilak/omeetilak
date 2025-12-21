@@ -1,10 +1,20 @@
-Hi 👋 I am OMPRASAD TILAK
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:001f3f&height=180&section=header&text=OMPRASAD%20TILAK&fontSize=36&fontColor=00ffcc&animation=fadeIn" />
+</p>
+
+Hi 👋 I am **OMPRASAD TILAK**
 ===============================
 
-🚀 Cybersecurity , WebDev , Data Science and AI enthusiast 🚀
+🚀 **Cybersecurity | WebDev | Data Science | AI Enthusiast** 🚀
 --------------------------------------------------------
 
-I'm pursuing a BTech in CSIT with a Cybersecurity specialization, fueled by a passion to unravel the intricate relationships between cybersecurity, artificial intelligence, data science, and web development dedicated to crafting groundbreaking solutions to safeguard our digital landscape.
+I'm pursuing a **BTech in CSIT with a Cybersecurity specialization**, fueled by a passion to explore the intersection of **offensive & defensive security, AI, data science, and modern web systems**, with a strong focus on building **secure, real-world solutions**.
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=500&color=00FFCC&center=true&vCenter=true&width=800&lines=Red+Team+%7C+Blue+Team+%7C+Purple+Team;Pentesting+%7C+SOC+%7C+Malware+Analysis;CI%2FCD+Security+%7C+Cloud+Security+%7C+Threat+Hunting" />
+</p>
+
+---
 
 ## 🐍 Contribution Graph
 
@@ -19,6 +29,66 @@ I'm pursuing a BTech in CSIT with a Cybersecurity specialization, fueled by a pa
   </picture>
 </p>
 
+---
+
+## ⚔️ Red Team vs Blue Team
+
+### 🔴 Red Team (Offensive Security)
+- Web & Network Penetration Testing  
+- Vulnerability Assessment & Exploitation  
+- Reconnaissance & Enumeration  
+- Malware & Payload Analysis (Basics)  
+- Privilege Escalation Techniques  
+- OWASP Top 10 Testing  
+
+**Tools:**
+- Kali Linux
+- Nmap
+- Metasploit
+- Burp Suite
+- Hydra
+- SQLmap
+
+---
+
+### 🔵 Blue Team (Defensive Security)
+- SOC & Incident Response Fundamentals  
+- Log Analysis & Security Monitoring  
+- Network Traffic Analysis  
+- Endpoint Security Concepts  
+- Secure System Hardening  
+- Threat Modeling & Detection  
+
+**Tools / Platforms:**
+- Wireshark
+- Splunk (Basics)
+- ELK Stack (Conceptual)
+- Windows Event Viewer
+- Sysmon
+- IDS / IPS Concepts
+
+---
+
+### 🟣 Purple Team (Attack ↔ Defense)
+- Detection engineering  
+- Attack simulation for defense improvement  
+- CI/CD pipeline security analysis  
+- Bridging Red Team findings with Blue Team controls  
+
+---
+
+## 🛡️ Cybersecurity Tools & Platforms
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-0A0A0A?style=for-the-badge&logo=metasploit&logoColor=red"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ghidra-A80000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+</p>
+
+---
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [LINKEDIN](http://www.linkedin.com/in/omprasad-tilak-69430b297)
