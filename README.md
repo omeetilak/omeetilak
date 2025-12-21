@@ -6,6 +6,11 @@ Hi 👋 I am OMPRASAD TILAK
 
 I'm pursuing a BTech in CSIT with a Cybersecurity specialization, fueled by a passion to unravel the intricate relationships between cybersecurity, artificial intelligence, data science, and web development dedicated to crafting groundbreaking solutions to safeguard our digital landscape.
 
+## 🐍 Contribution Graph
+
+![GitHub Contribution Snake](https://github.com/omeetilak/omeetilak/blob/output/github-contribution-grid-snake.gif)
+
+
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [LINKEDIN](http://www.linkedin.com/in/omprasad-tilak-69430b297)
 * ✉️  You can contact me at [Omprasadtilak2171@gmail.com](mailto:Omprasadtilak2171@gmail.com)
