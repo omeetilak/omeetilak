@@ -6,6 +6,20 @@ Hi 👋 I am OMPRASAD TILAK
 
 I'm pursuing a BTech in CSIT with a Cybersecurity specialization, fueled by a passion to unravel the intricate relationships between cybersecurity, artificial intelligence, data science, and web development dedicated to crafting groundbreaking solutions to safeguard our digital landscape.
 
+## 🐍 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/omeetilak/omeetilak/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/omeetilak/omeetilak/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation"
+         src="https://raw.githubusercontent.com/omeetilak/omeetilak/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [LINKEDIN](http://www.linkedin.com/in/omprasad-tilak-69430b297)
 * ✉️  You can contact me at [Omprasadtilak2171@gmail.com](mailto:Omprasadtilak2171@gmail.com)
@@ -24,7 +38,4 @@ I'm pursuing a BTech in CSIT with a Cybersecurity specialization, fueled by a pa
 <a href="https://www.github.com/omeetilak" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/omeetilak?logo=github&style=for-the-badge&color=0891b2&labelColor=22272e" /></a>
 
-## 🐍 Contribution Graph
-
-![GitHub Contribution Snake](https://github.com/omeetilak/omeetilak/blob/output/github-contribution-grid-snake.gif)
 
