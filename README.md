@@ -24,8 +24,3 @@ I'm pursuing a BTech in CSIT with a Cybersecurity specialization, fueled by a pa
 <a href="https://www.github.com/omeetilak" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/omeetilak?logo=github&style=for-the-badge&color=0891b2&labelColor=22272e" /></a>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/omeetilak"><img src="https://github-readme-stats.vercel.app/api?username=omeetilak&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true" alt="omeetilak's GitHub stats" /></a>
