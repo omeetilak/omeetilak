@@ -35,20 +35,21 @@ I'm pursuing a **BTech in CSIT with a Cybersecurity specialization**, fueled by 
 
 | 🔴 **Red Team (Offensive Security)** | 🔵 **Blue Team (Defensive Security)** |
 |------------------------------------|--------------------------------------|
-| Web & Network Penetration Testing  | SOC & Incident Response Fundamentals |
-| Vulnerability Assessment & Exploitation | Log Analysis & Security Monitoring |
-| Reconnaissance & Enumeration       | Network Traffic Analysis             |
-| Malware & Payload Analysis (Basics)| Endpoint Security Concepts            |
-| Privilege Escalation Techniques    | Secure System Hardening               |
-| OWASP Top 10 Testing               | Threat Modeling & Detection           |
+| Web & Network Penetration Testing  | SOC Operations & Incident Response   |
+| Vulnerability Assessment & Exploitation | Log Analysis & Continuous Monitoring |
+| Reconnaissance & Attack Surface Mapping | Network Traffic Analysis             |
+| Malware & Payload Analysis (Introductory) | Endpoint Detection & Response (EDR) |
+| Privilege Escalation & Post-Exploitation | System Hardening & Secure Baselines |
+| OWASP Top 10 & Web App Attacks     | Threat Modeling & Detection Logic    |
 |                                    |                                      |
-| **🛠 Tools**                        | **🛠 Tools / Platforms**              |
-| Kali Linux                         | Wireshark                             |
-| Nmap                               | Splunk (Basics)                       |
-| Metasploit                         | ELK Stack (Conceptual)                |
-| Burp Suite                         | Windows Event Viewer                  |
-| Hydra                              | Sysmon                                |
-| SQLmap                             | IDS / IPS Concepts                    |
+| **🛠 Core Tools**                   | **🛠 Defensive Platforms & Tools**   |
+| Kali Linux                          | Wireshark                             |
+| Nmap                                | Splunk (Foundational)                |
+| Metasploit Framework                | ELK Stack (Conceptual)               |
+| Burp Suite                          | Windows Event Viewer                 |
+| Hydra                               | Sysmon                               |
+| SQLmap                              | IDS / IPS Concepts                   |
+
 
 
 ## 🛡️ Cybersecurity Tools & Platforms
