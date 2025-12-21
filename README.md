@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020024,50:090979,100:00ffcc&height=180&section=header&text=OMPRASAD%20TILAK&fontSize=38&fontColor=00ffcc&animation=twinkling" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=600&color=00FF00&center=true&vCenter=true&width=900&lines=%3E+booting+secure+environment...;%3E+loading+SOC+modules...;%3E+access+granted:+OMPRASAD+TILAK" />
 </p>
 
 
