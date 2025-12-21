@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:001f3f&height=180&section=header&text=OMPRASAD%20TILAK&fontSize=36&fontColor=00ffcc&animation=fadeIn" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=800&color=00FFCC&center=true&vCenter=true&width=900&lines=INITIALIZING+SECURITY+PROTOCOLS...;WELCOME+TO+THE+CYBER+SECTOR;OMPRASAD+TILAK+%7C+SOC+%7C+CYBER+DEFENSE" />
 </p>
+
 
 Hi 👋 I am **OMPRASAD TILAK**
 ===============================
