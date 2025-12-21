@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3500&pause=1200&color=FFE81F&center=true&vCenter=true&width=900&lines=EPISODE+I;A+CYBER+AWAKENING;In+a+world+dominated+by+digital+threats...;One+analyst+seeks+to+defend+the+network.;OMPRASAD+TILAK+-+CYBER+SECURITY+INITIATE" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3200&pause=1000&color=FFE81F&center=true&vCenter=true&width=950&lines=EPISODE+I;THE+CYBER+AWAKENING;This+profile+is+not+about+buzzwords.;It%E2%80%99s+about+how+systems+break...;and+how+they%E2%80%99re+defended.;OMPRASAD+TILAK" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 </p>
 
 Hi 👋 I am **OMPRASAD TILAK**
@@ -33,6 +39,10 @@ I'm pursuing a **BTech in CSIT with a Cybersecurity specialization**, fueled by 
 
 ## ⚔️ Red Team vs Blue Team
 
+<table>
+<tr>
+<td width="65%" valign="top">
+
 | 🔴 **Red Team (Offensive Security)** | 🔵 **Blue Team (Defensive Security)** |
 |------------------------------------|--------------------------------------|
 | Web & Network Penetration Testing  | SOC Operations & Incident Response   |
@@ -50,6 +60,25 @@ I'm pursuing a **BTech in CSIT with a Cybersecurity specialization**, fueled by 
 | Hydra                               | Sysmon                               |
 | SQLmap                              | IDS / IPS Concepts                   |
 
+</td>
+
+<td width="35%" align="center" valign="top">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dDJjeGp1cDN5Mm9sdHNmbzA1dmdkcTF3MjNpZTIyMGJqc29wenNzayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UK5wOtrmXzFHYJjE9A/giphy.gif"
+     width="80%"
+     alt="Hacker coding at terminal animation"/>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3A2b3Q4cXVwbnBscGpndWkzejQzZHhhbnE1d2F6c28wMXJvc200bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mpWFQhaf8m0keXejqB/giphy.gif"
+     width="80%"
+     alt="Cyber hacker workstation animation"/>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3A2b3Q4cXVwbnBscGpndWkzejQzZHhhbnE1d2F6c28wMXJvc200bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/teI6UZ7V8vHeW9tco6/giphy.gif"
+     width="80%"
+     alt="Programmer typing code animation"/>
+
+</td>
+
+</table>
 
 
 ## 🛡️ Cybersecurity Tools & Platforms
@@ -82,5 +111,6 @@ I'm pursuing a **BTech in CSIT with a Cybersecurity specialization**, fueled by 
 <p align="left"> <a href="https://www.github.com/omeetilak" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/omprasad-tilak-69430b297" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://discord.com/users/zz._.wolf" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
 <a href="https://www.github.com/omeetilak" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/omeetilak?logo=github&style=for-the-badge&color=0891b2&labelColor=22272e" /></a>
+
 
 
